@@ -1,0 +1,44 @@
+   body{
+    background-color: #f8e3ea;
+}
+.cv{
+    height: 600px;
+    width: 100%;
+    background-color: white;
+    margin: 30px;
+}
+.p
+{
+    float: right;
+}
+.asss
+{
+    float: right;
+    padding-top: 320px;
+    margin: 5px;
+}
+.ff
+{   flex-direction: column;
+    display: flex;
+    padding-top: 10px;
+    font-family: sans-serif;
+    font-size: smaller;
+    padding-left: 620px;
+    margin-right: 150px;
+    justify-content: space-between;
+
+}
+.qw
+{
+    padding-top: 180px;
+    padding-left: 610px;
+}
+img{
+    box-shadow: 5px 5px 5px;
+}
+img
+{
+    justify-content: flex-start;
+    height: 500px;
+    width: 500px;
+}
