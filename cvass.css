@@ -2,7 +2,7 @@
     background-color: #f8e3ea;
 }
 .cv{
-    height: 600px;
+    height: 800px;
     width: 100%;
     background-color: white;
     margin: 30px;
@@ -41,4 +41,33 @@ img
     justify-content: flex-start;
     height: 500px;
     width: 500px;
+}
+.fa-color
+{
+    color: blueviolet;
+}
+.fa-aa
+{
+    color: blueviolet;
+}
+.fa-qq
+{
+    padding-right: 200px;
+}
+.asss
+{
+    height: 500px;
+    width: 50%;
+    display: flex;
+}
+.jj
+{
+ justify-content:flex-start;
+}
+.ss{
+    display: inline-table;
+}
+.zz
+{
+
 }
